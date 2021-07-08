@@ -1,0 +1,27 @@
+#imagenEje2{
+    width: 30%;
+    height: 30%;
+}
+#imagenEje3{
+    width: 50%;
+    height: 50%;
+}
+#imagenEje4{
+    width: 80%;
+    height: 80%;
+}
+#h1Center{
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
+#TextCenter{
+    vertical-align: middle;
+    width: 25%;
+    height: 25%;
+    /* Ojo vertical-align: text-middle no existe*/
+}
+#imagenEje5{
+    width: 10%;
+    height: 10%;
+}

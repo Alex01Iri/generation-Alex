@@ -1,0 +1,27 @@
+    .line1{
+        background-color: darksalmon;
+        font-size: large;
+    }
+    .line2{
+        color: salmon;
+        font-size: large;
+    }
+
+    h4{
+        color:blueviolet;
+    }
+    h2{
+        color:magenta
+    }
+    .azul{
+        color:blue;
+        /*Color azul preferido por los clientes */
+    }
+    #encabezado{
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    #imgCubos{
+        width: 100px;
+        height: 100px;
+    }

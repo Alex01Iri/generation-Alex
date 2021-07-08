@@ -1,0 +1,26 @@
+.col1{
+    width: 450px;
+    background-color:crimson ;
+}
+.col2{
+    width: 300px;
+    background-color: darkcyan ;
+}
+.col3{
+    width: 300px;
+    background-color:yellow ;    
+}
+caption{
+    caption-side: bottom;
+    font-size: 10pt;
+}
+table{
+    
+    
+    border-radius: 5px;
+    border-spacing: 0px;
+}
+th{
+    border-bottom: white thick solid;
+    
+}
